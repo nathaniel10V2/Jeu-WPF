@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WPF/1.0.0": {
+        "dependencies": {
+          "Hasard": "1.0.0",
+          "JeuDeCartes": "1.0.0",
+          "JeuMémoire": "1.0.0",
+          "Joueur": "1.0.0"
+        },
+        "runtime": {
+          "WPF.dll": {}
+        }
+      },
+      "Hasard/1.0.0": {
+        "dependencies": {
+          "Joueur": "1.0.0"
+        },
+        "runtime": {
+          "Hasard.dll": {}
+        }
+      },
+      "JeuDeCartes/1.0.0": {
+        "dependencies": {
+          "Joueur": "1.0.0"
+        },
+        "runtime": {
+          "JeuDeCartes.dll": {}
+        }
+      },
+      "JeuMémoire/1.0.0": {
+        "dependencies": {
+          "Joueur": "1.0.0"
+        },
+        "runtime": {
+          "JeuMémoire.dll": {}
+        }
+      },
+      "Joueur/1.0.0": {
+        "runtime": {
+          "Joueur.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hasard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JeuDeCartes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JeuMémoire/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Joueur/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

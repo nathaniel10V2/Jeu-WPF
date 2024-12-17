@@ -1,0 +1,160 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0-windows7.0": {
+      "Hasard/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Joueur": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Hasard.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Hasard.dll": {}
+        }
+      },
+      "JeuDeCartes/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Joueur": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/JeuDeCartes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/JeuDeCartes.dll": {}
+        }
+      },
+      "JeuMémoire/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Joueur": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/JeuMémoire.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/JeuMémoire.dll": {}
+        }
+      },
+      "Joueur/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Joueur.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Joueur.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hasard/1.0.0": {
+      "type": "project",
+      "path": "../Jeux - Copie/Hasard/Hasard.csproj",
+      "msbuildProject": "../Jeux - Copie/Hasard/Hasard.csproj"
+    },
+    "JeuDeCartes/1.0.0": {
+      "type": "project",
+      "path": "../Jeux - Copie/JeuDeCartes/JeuDeCartes.csproj",
+      "msbuildProject": "../Jeux - Copie/JeuDeCartes/JeuDeCartes.csproj"
+    },
+    "JeuMémoire/1.0.0": {
+      "type": "project",
+      "path": "../Jeux - Copie/JeuMémoire/JeuMémoire.csproj",
+      "msbuildProject": "../Jeux - Copie/JeuMémoire/JeuMémoire.csproj"
+    },
+    "Joueur/1.0.0": {
+      "type": "project",
+      "path": "../Jeux - Copie/Joueur/Joueur.csproj",
+      "msbuildProject": "../Jeux - Copie/Joueur/Joueur.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0-windows7.0": [
+      "Hasard >= 1.0.0",
+      "JeuDeCartes >= 1.0.0",
+      "JeuMémoire >= 1.0.0",
+      "Joueur >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\chris\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\chris\\Documents\\Csharp\\Projet\\WPF\\WPF.csproj",
+      "projectName": "WPF",
+      "projectPath": "C:\\Users\\chris\\Documents\\Csharp\\Projet\\WPF\\WPF.csproj",
+      "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\chris\\Documents\\Csharp\\Projet\\WPF\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "projectReferences": {
+            "C:\\Users\\chris\\Documents\\Csharp\\Projet\\Jeux - Copie\\Hasard\\Hasard.csproj": {
+              "projectPath": "C:\\Users\\chris\\Documents\\Csharp\\Projet\\Jeux - Copie\\Hasard\\Hasard.csproj"
+            },
+            "C:\\Users\\chris\\Documents\\Csharp\\Projet\\Jeux - Copie\\JeuDeCartes\\JeuDeCartes.csproj": {
+              "projectPath": "C:\\Users\\chris\\Documents\\Csharp\\Projet\\Jeux - Copie\\JeuDeCartes\\JeuDeCartes.csproj"
+            },
+            "C:\\Users\\chris\\Documents\\Csharp\\Projet\\Jeux - Copie\\JeuMémoire\\JeuMémoire.csproj": {
+              "projectPath": "C:\\Users\\chris\\Documents\\Csharp\\Projet\\Jeux - Copie\\JeuMémoire\\JeuMémoire.csproj"
+            },
+            "C:\\Users\\chris\\Documents\\Csharp\\Projet\\Jeux - Copie\\Joueur\\Joueur.csproj": {
+              "projectPath": "C:\\Users\\chris\\Documents\\Csharp\\Projet\\Jeux - Copie\\Joueur\\Joueur.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0-windows7.0": {
+        "targetAlias": "net7.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

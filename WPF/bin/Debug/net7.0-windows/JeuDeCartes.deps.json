@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "JeuDeCartes/1.0.0": {
+        "dependencies": {
+          "Joueur": "1.0.0"
+        },
+        "runtime": {
+          "JeuDeCartes.dll": {}
+        }
+      },
+      "Joueur/1.0.0": {
+        "runtime": {
+          "Joueur.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JeuDeCartes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Joueur/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

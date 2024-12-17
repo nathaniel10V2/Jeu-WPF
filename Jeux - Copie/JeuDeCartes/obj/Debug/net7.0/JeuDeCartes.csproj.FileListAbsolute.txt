@@ -1,0 +1,54 @@
+C:\Csharp\Projet\Jeux\JeuDeCartes\bin\Debug\net7.0\JeuDeCartes.exe
+C:\Csharp\Projet\Jeux\JeuDeCartes\bin\Debug\net7.0\JeuDeCartes.deps.json
+C:\Csharp\Projet\Jeux\JeuDeCartes\bin\Debug\net7.0\JeuDeCartes.runtimeconfig.json
+C:\Csharp\Projet\Jeux\JeuDeCartes\bin\Debug\net7.0\JeuDeCartes.dll
+C:\Csharp\Projet\Jeux\JeuDeCartes\bin\Debug\net7.0\JeuDeCartes.pdb
+C:\Csharp\Projet\Jeux\JeuDeCartes\bin\Debug\net7.0\Joueur.dll
+C:\Csharp\Projet\Jeux\JeuDeCartes\bin\Debug\net7.0\Joueur.pdb
+C:\Csharp\Projet\Jeux\JeuDeCartes\obj\Debug\net7.0\JeuDeCartes.csproj.AssemblyReference.cache
+C:\Csharp\Projet\Jeux\JeuDeCartes\obj\Debug\net7.0\JeuDeCartes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\Projet\Jeux\JeuDeCartes\obj\Debug\net7.0\JeuDeCartes.AssemblyInfoInputs.cache
+C:\Csharp\Projet\Jeux\JeuDeCartes\obj\Debug\net7.0\JeuDeCartes.AssemblyInfo.cs
+C:\Csharp\Projet\Jeux\JeuDeCartes\obj\Debug\net7.0\JeuDeCartes.csproj.CoreCompileInputs.cache
+C:\Csharp\Projet\Jeux\JeuDeCartes\obj\Debug\net7.0\JeuDeCartes.csproj.CopyComplete
+C:\Csharp\Projet\Jeux\JeuDeCartes\obj\Debug\net7.0\JeuDeCartes.dll
+C:\Csharp\Projet\Jeux\JeuDeCartes\obj\Debug\net7.0\refint\JeuDeCartes.dll
+C:\Csharp\Projet\Jeux\JeuDeCartes\obj\Debug\net7.0\JeuDeCartes.pdb
+C:\Csharp\Projet\Jeux\JeuDeCartes\obj\Debug\net7.0\JeuDeCartes.genruntimeconfig.cache
+C:\Csharp\Projet\Jeux\JeuDeCartes\obj\Debug\net7.0\ref\JeuDeCartes.dll
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\bin\Debug\net7.0\JeuDeCartes.exe
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\bin\Debug\net7.0\JeuDeCartes.deps.json
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\bin\Debug\net7.0\JeuDeCartes.runtimeconfig.json
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\bin\Debug\net7.0\JeuDeCartes.dll
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\bin\Debug\net7.0\JeuDeCartes.pdb
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\bin\Debug\net7.0\Joueur.dll
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\bin\Debug\net7.0\Joueur.pdb
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\obj\Debug\net7.0\JeuDeCartes.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\obj\Debug\net7.0\JeuDeCartes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\obj\Debug\net7.0\JeuDeCartes.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\obj\Debug\net7.0\JeuDeCartes.AssemblyInfo.cs
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\obj\Debug\net7.0\JeuDeCartes.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\obj\Debug\net7.0\JeuDeCartes.csproj.CopyComplete
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\obj\Debug\net7.0\JeuDeCartes.dll
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\obj\Debug\net7.0\refint\JeuDeCartes.dll
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\obj\Debug\net7.0\JeuDeCartes.pdb
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\obj\Debug\net7.0\JeuDeCartes.genruntimeconfig.cache
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\obj\Debug\net7.0\ref\JeuDeCartes.dll
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\bin\Debug\net7.0\JeuDeCartes.exe
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\bin\Debug\net7.0\JeuDeCartes.deps.json
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\bin\Debug\net7.0\JeuDeCartes.runtimeconfig.json
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\bin\Debug\net7.0\JeuDeCartes.dll
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\bin\Debug\net7.0\JeuDeCartes.pdb
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\bin\Debug\net7.0\Joueur.dll
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\bin\Debug\net7.0\Joueur.pdb
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\obj\Debug\net7.0\JeuDeCartes.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\obj\Debug\net7.0\JeuDeCartes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\obj\Debug\net7.0\JeuDeCartes.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\obj\Debug\net7.0\JeuDeCartes.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\obj\Debug\net7.0\JeuDeCartes.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\obj\Debug\net7.0\JeuDeCartes.csproj.CopyComplete
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\obj\Debug\net7.0\JeuDeCartes.dll
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\obj\Debug\net7.0\refint\JeuDeCartes.dll
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\obj\Debug\net7.0\JeuDeCartes.pdb
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\obj\Debug\net7.0\JeuDeCartes.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\JeuDeCartes\obj\Debug\net7.0\ref\JeuDeCartes.dll

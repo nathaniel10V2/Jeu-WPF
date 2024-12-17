@@ -1,0 +1,41 @@
+C:\Csharp\ClassLibraryProjects\Joueur\obj\Debug\net7.0\Joueur.csproj.AssemblyReference.cache
+C:\Csharp\ClassLibraryProjects\Joueur\obj\Debug\net7.0\Joueur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\ClassLibraryProjects\Joueur\obj\Debug\net7.0\Joueur.AssemblyInfoInputs.cache
+C:\Csharp\ClassLibraryProjects\Joueur\obj\Debug\net7.0\Joueur.AssemblyInfo.cs
+C:\Csharp\ClassLibraryProjects\Joueur\obj\Debug\net7.0\Joueur.csproj.CoreCompileInputs.cache
+C:\Csharp\Projet\Jeux\Joueur\obj\Debug\net7.0\Joueur.csproj.AssemblyReference.cache
+C:\Csharp\Projet\Jeux\Joueur\obj\Debug\net7.0\Joueur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\Projet\Jeux\Joueur\obj\Debug\net7.0\Joueur.AssemblyInfoInputs.cache
+C:\Csharp\Projet\Jeux\Joueur\obj\Debug\net7.0\Joueur.AssemblyInfo.cs
+C:\Csharp\Projet\Jeux\Joueur\obj\Debug\net7.0\Joueur.csproj.CoreCompileInputs.cache
+C:\Csharp\Projet\Jeux\Joueur\bin\Debug\net7.0\Joueur.deps.json
+C:\Csharp\Projet\Jeux\Joueur\bin\Debug\net7.0\Joueur.dll
+C:\Csharp\Projet\Jeux\Joueur\bin\Debug\net7.0\Joueur.pdb
+C:\Csharp\Projet\Jeux\Joueur\obj\Debug\net7.0\Joueur.dll
+C:\Csharp\Projet\Jeux\Joueur\obj\Debug\net7.0\refint\Joueur.dll
+C:\Csharp\Projet\Jeux\Joueur\obj\Debug\net7.0\Joueur.pdb
+C:\Csharp\Projet\Jeux\Joueur\obj\Debug\net7.0\ref\Joueur.dll
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\Joueur\bin\Debug\net7.0\Joueur.deps.json
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\Joueur\bin\Debug\net7.0\Joueur.dll
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\Joueur\bin\Debug\net7.0\Joueur.pdb
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\Joueur\obj\Debug\net7.0\Joueur.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\Joueur\obj\Debug\net7.0\Joueur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\Joueur\obj\Debug\net7.0\Joueur.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\Joueur\obj\Debug\net7.0\Joueur.AssemblyInfo.cs
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\Joueur\obj\Debug\net7.0\Joueur.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\Joueur\obj\Debug\net7.0\Joueur.dll
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\Joueur\obj\Debug\net7.0\refint\Joueur.dll
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\Joueur\obj\Debug\net7.0\Joueur.pdb
+C:\Users\chris\Documents\Csharp\Projet\Jeux - Copie\Joueur\obj\Debug\net7.0\ref\Joueur.dll
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\Joueur\bin\Debug\net7.0\Joueur.deps.json
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\Joueur\bin\Debug\net7.0\Joueur.dll
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\Joueur\bin\Debug\net7.0\Joueur.pdb
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\Joueur\obj\Debug\net7.0\Joueur.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\Joueur\obj\Debug\net7.0\Joueur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\Joueur\obj\Debug\net7.0\Joueur.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\Joueur\obj\Debug\net7.0\Joueur.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\Joueur\obj\Debug\net7.0\Joueur.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\Joueur\obj\Debug\net7.0\Joueur.dll
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\Joueur\obj\Debug\net7.0\refint\Joueur.dll
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\Joueur\obj\Debug\net7.0\Joueur.pdb
+C:\Users\chris\OneDrive\Documents\Csharp\Projet\Jeux - Copie\Joueur\obj\Debug\net7.0\ref\Joueur.dll

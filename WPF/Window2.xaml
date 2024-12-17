@@ -1,0 +1,166 @@
+﻿<Window x:Class="WPF.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF"
+        mc:Ignorable="d"
+        Title="Carte" Height="450" Width="800" WindowStyle="ToolWindow">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Border Grid.Row="0" Background="#FF2D50FF" Margin="10,10,10,10" />
+        <StackPanel Margin="10,10,10,10" HorizontalAlignment="Center" VerticalAlignment="Center" >
+            <TextBlock x:Name="tbkTitreJeu"   TextAlignment="Center"  Text="Jeu de Cartes"   VerticalAlignment="Center" FontSize="24" FontStyle="Italic" FontWeight="Bold"/>
+        </StackPanel>
+        <Grid x:Name="GestionJoueursGrille" Grid.Row="1" Visibility="Visible">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="50"/>
+            </Grid.RowDefinitions>
+            <Grid x:Name="SaisieJoueurPanel" Grid.Row="0" Grid.Column="0" Margin="10,10,10,10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <TextBlock x:Name="tbkInfo"  Grid.ColumnSpan="3" TextWrapping="Wrap" FontSize="14" Foreground="#FF161717" Background="#FFB7ADAD" TextAlignment="Center" Text="Saisissez le nom du joueur " Margin="0,0,0,5"/>
+                <TextBox x:Name="tbxSaisie" Grid.Row="1" Grid.ColumnSpan="3" TextWrapping="Wrap" FontSize="24" TextAlignment="Center" RenderTransformOrigin="0.518,0.553" BorderBrush="#FFB7ADAD" BorderThickness="1" >
+                </TextBox>
+                <Button x:Name="btnAjouter" Grid.Row="2" Grid.Column="2"  Content="Ajouter un joueur" FontSize="14" Padding="10,5,5,5" Click="btnAjouter_Click" Background="#FFDBE3DA" Margin="0,10,0,0"/>
+            </Grid>
+            <Grid x:Name="listeJoueursPanel" Grid.Row="0" Grid.Column="1" Margin="10,10,10,10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <TextBlock x:Name="textBlock" Grid.Row="0" Grid.ColumnSpan="3" TextWrapping="Wrap" Text="Liste des joueurs selectionnés"  FontSize="14" TextAlignment="Center" Background="#FFB7ADAD"  Margin="0,0,0,5"/>
+                <ListBox x:Name="listeJoueurBox" Grid.Row="1" Grid.ColumnSpan="3" FontSize="24" RenderTransformOrigin="0.508,0.527"  BorderBrush="#FFB7ADAD" BorderThickness="1" >
+                    <ListBoxItem/>
+                </ListBox>
+                <Button x:Name="btnSupprimer" Grid.Row="2" Grid.Column="2" Content="Retirer un joueur" Padding="10,5,10,5" FontSize="14" Click="btnSupprimer_Click" Margin="0,10,0,0"/>
+            </Grid>
+            <Border Grid.Row="2" Grid.ColumnSpan="2" Background="#FF38812B" Margin="10,10,10,10" />
+            <StackPanel Grid.ColumnSpan="2" Grid.Row="2" Margin="10,10,10,10" HorizontalAlignment="Center" VerticalAlignment="Center" Background="#FFCB1717" >
+                <Button x:Name="btn_Commencer"  Content="Commencer le jeu" Padding="10,5,10,5" HorizontalAlignment="Right"  VerticalAlignment="Bottom"  FontSize="14" Click="btn_Commencer_Click"/>
+            </StackPanel>
+        </Grid>
+        <Grid x:Name="JeuGrille" Grid.Row="1" Margin="10,10,10,10" Visibility="Hidden">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="50"/>
+            </Grid.RowDefinitions>
+            <Grid x:Name="GrilleJoueur1" Grid.Row="0" Grid.Column="0" Margin="10,10,10,10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <TextBlock x:Name="tbkPremierJoueur" Grid.Row="0" Margin="0,0,0,5" FontSize="14" Foreground="#FF161717" Background="#FFB7ADAD"/>
+                <Border Grid.Row="1" BorderBrush="#FFB7ADAD" BorderThickness="1" Margin="0,0,0,5">
+                    <Image x:Name="imgCarteJ1"/>
+                </Border>
+                <Button x:Name="btnJouer1" Content="Jouer" Grid.Row="2" HorizontalAlignment="Right" Padding="10,5,10,5" FontSize="14" Background="#FFDBE3DA" Click="btnJouer1_Click"/>
+            </Grid>
+            <Grid x:Name="GrilleJoueur2" Grid.Row="0" Grid.Column="1" Margin="10,10,10,10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <TextBlock x:Name="tbkDeuxièmeJoueur" Grid.Row="0" Margin="0,0,0,5" FontSize="14" Foreground="#FF161717" Background="#FFB7ADAD"/>
+                <Border Grid.Row="1" BorderBrush="#FFB7ADAD" BorderThickness="1" Margin="0,0,0,5">
+                    <Image x:Name="imgCarteJ2"/>
+                </Border>
+                <Button x:Name="btnJouer2" Content="Jouer" Grid.Row="2" HorizontalAlignment="Right" Padding="10,5,10,5" FontSize="14" Background="#FFDBE3DA" Click="btnJouer2_Click_1"/>
+            </Grid>
+            <Grid x:Name="GrilleJoueur3" Grid.Row="1" Grid.Column="0" Margin="10,10,10,10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <TextBlock x:Name="tbkTroisièmeJoueur" Grid.Row="0" Margin="0,0,0,5" FontSize="14" Foreground="#FF161717" Background="#FFB7ADAD"/>
+                <Border Grid.Row="1" BorderBrush="#FFB7ADAD" BorderThickness="1" Margin="0,0,0,5">
+                    <Image x:Name="imgCarteJ3"/>
+                </Border>
+                <Button x:Name="btnJouer3" Content="Jouer" Grid.Row="2" HorizontalAlignment="Right" Padding="10,5,10,5" FontSize="14" Background="#FFDBE3DA" Click="btnJouer3_Click_1"/>
+            </Grid>
+            <Grid x:Name="GrilleJoueur4" Grid.Row="1" Grid.Column="1" Margin="10,10,10,10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <TextBlock x:Name="tbkQuatrièmeJoueur" Grid.Row="0" Margin="0,0,0,5" FontSize="14" Foreground="#FF161717" Background="#FFB7ADAD"/>
+                <Border Grid.Row="1" BorderBrush="#FFB7ADAD" BorderThickness="1" Margin="0,0,0,5">
+                    <Image x:Name="imgCarteJ4"/>
+                </Border>
+                <Button x:Name="btnJouer4" Content="Jouer" Grid.Row="2" HorizontalAlignment="Right" Padding="10,5,10,5" FontSize="14" Background="#FFDBE3DA" Click="btnJouer4_Click_1"/>
+            </Grid>
+            <Grid Grid.Column="2" Grid.RowSpan="2" Margin="10,10,10,10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <TextBlock Text="Score des joueurs" HorizontalAlignment="Center" Margin="0,0,0,5" FontSize="14" Foreground="#FF161717" Background="#FFB7ADAD"/>
+                <ListBox x:Name="lbxScoreJoueurs" Grid.Row="1" Margin="0,0,0,5" FontSize="14" BorderBrush="#FFB7ADAD" BorderThickness="1">
+                    <ListBoxItem/>
+                </ListBox>
+            </Grid>
+            <Grid Grid.Row="3" Grid.ColumnSpan="3">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <TextBlock x:Name="tbkJoueurGagnant" FontSize="14" HorizontalAlignment="Center"/>
+                <Button x:Name="btnRetour" Content="Retour" Grid.Row="1" HorizontalAlignment="Left" Padding="10,5,10,5" FontSize="14" Background="#FFDBE3DA" Click="btnRetour_Click"/>
+                <Button x:Name="btnRejouer" Content="Rejouer" Grid.Row="1" HorizontalAlignment="Right" Padding="10,5,10,5" FontSize="14" Background="#FFDBE3DA" Click="btnRejouer_Click"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

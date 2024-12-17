@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>WPF</id>
+    <version>1.0.0</version>
+    <authors>WPF</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0-windows7.0">
+        <dependency id="Hasard" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="JeuDeCartes" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="JeuMémoire" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Joueur" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net7.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\chris\Documents\Csharp\Projet\WPF\bin\Debug\net7.0-windows\WPF.runtimeconfig.json" target="lib\net7.0-windows7.0\WPF.runtimeconfig.json" />
+    <file src="C:\Users\chris\Documents\Csharp\Projet\WPF\bin\Debug\net7.0-windows\WPF.dll" target="lib\net7.0-windows7.0\WPF.dll" />
+  </files>
+</package>

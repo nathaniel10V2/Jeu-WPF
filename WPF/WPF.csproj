@@ -1,0 +1,55 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <StartupObject></StartupObject>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+  </PropertyGroup>
+	
+
+  <ItemGroup>
+    <None Remove="image/carte.jpg" />
+    <None Remove="image/dé.jpg" />
+    <None Remove="image/dé_Numéro_1.png" />
+    <None Remove="image/dé_Numéro_2.png" />
+    <None Remove="image/dé_Numéro_3.png" />
+    <None Remove="image/dé_Numéro_4.png" />
+    <None Remove="image/dé_Numéro_5.png" />
+    <None Remove="image/dé_Numéro_6.png" />
+    <None Remove="image/fond.jpg" />
+    <None Remove="image/mémoire.jfif" />
+  </ItemGroup>
+	
+
+  <ItemGroup>
+    <ProjectReference Include="..\Jeux - Copie\Hasard\Hasard.csproj" />
+    <ProjectReference Include="..\Jeux - Copie\JeuDeCartes\JeuDeCartes.csproj" />
+    <ProjectReference Include="..\Jeux - Copie\JeuMémoire\JeuMémoire.csproj" />
+    <ProjectReference Include="..\Jeux - Copie\Joueur\Joueur.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="image/carte.jpg" />
+    <Resource Include="image/dé.jpg" />
+    <Resource Include="image/dé_Numéro_1.png" />
+    <Resource Include="image/dé_Numéro_2.png" />
+    <Resource Include="image/dé_Numéro_3.png" />
+    <Resource Include="image/dé_Numéro_4.png" />
+    <Resource Include="image/dé_Numéro_5.png" />
+    <Resource Include="image/dé_Numéro_6.png" />
+    <Resource Include="image/fond.jpg" />
+    <Resource Include="image/mémoire.jfif" />
+	<Resource Include="image/carte_1.png" />
+	<Resource Include="image/carte_2.png" />
+	<Resource Include="image/carte_3.png" />
+	<Resource Include="image/carte_4.png" />
+	<Resource Include="image/carte_5.png" />
+	<Resource Include="image/carte_6.png" />
+	<Resource Include="image/carte_7.png" />	
+  </ItemGroup>
+
+</Project>

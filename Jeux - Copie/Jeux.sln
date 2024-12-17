@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Joueur", "Joueur\Joueur.csproj", "{5AAFEAE4-0D7F-4DC7-95C0-CA5F4AF957AA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jeu", "Jeu\Jeu.csproj", "{395A6A7D-0C07-46EE-9DC2-5C71CDCA14D4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hasard", "Hasard\Hasard.csproj", "{22124A6B-69C5-4FE8-91D7-41E6D7882C5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AAFEAE4-0D7F-4DC7-95C0-CA5F4AF957AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AAFEAE4-0D7F-4DC7-95C0-CA5F4AF957AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AAFEAE4-0D7F-4DC7-95C0-CA5F4AF957AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AAFEAE4-0D7F-4DC7-95C0-CA5F4AF957AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{395A6A7D-0C07-46EE-9DC2-5C71CDCA14D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{395A6A7D-0C07-46EE-9DC2-5C71CDCA14D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{395A6A7D-0C07-46EE-9DC2-5C71CDCA14D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{395A6A7D-0C07-46EE-9DC2-5C71CDCA14D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22124A6B-69C5-4FE8-91D7-41E6D7882C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22124A6B-69C5-4FE8-91D7-41E6D7882C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22124A6B-69C5-4FE8-91D7-41E6D7882C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22124A6B-69C5-4FE8-91D7-41E6D7882C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

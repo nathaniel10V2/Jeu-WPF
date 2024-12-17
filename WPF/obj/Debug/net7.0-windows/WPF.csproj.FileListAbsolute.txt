@@ -1,0 +1,157 @@
+C:\Csharp\Projet\WPF\bin\Debug\net7.0-windows\WPF.exe
+C:\Csharp\Projet\WPF\bin\Debug\net7.0-windows\WPF.deps.json
+C:\Csharp\Projet\WPF\bin\Debug\net7.0-windows\WPF.runtimeconfig.json
+C:\Csharp\Projet\WPF\bin\Debug\net7.0-windows\WPF.dll
+C:\Csharp\Projet\WPF\bin\Debug\net7.0-windows\WPF.pdb
+C:\Csharp\Projet\WPF\obj\Debug\net7.0-windows\WPF.csproj.AssemblyReference.cache
+C:\Csharp\Projet\WPF\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Csharp\Projet\WPF\obj\Debug\net7.0-windows\App.g.cs
+C:\Csharp\Projet\WPF\obj\Debug\net7.0-windows\WPF_MarkupCompile.cache
+C:\Csharp\Projet\WPF\obj\Debug\net7.0-windows\WPF_MarkupCompile.lref
+C:\Csharp\Projet\WPF\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Csharp\Projet\WPF\obj\Debug\net7.0-windows\WPF.g.resources
+C:\Csharp\Projet\WPF\obj\Debug\net7.0-windows\WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\Projet\WPF\obj\Debug\net7.0-windows\WPF.AssemblyInfoInputs.cache
+C:\Csharp\Projet\WPF\obj\Debug\net7.0-windows\WPF.AssemblyInfo.cs
+C:\Csharp\Projet\WPF\obj\Debug\net7.0-windows\WPF.csproj.CoreCompileInputs.cache
+C:\Csharp\Projet\WPF\obj\Debug\net7.0-windows\WPF.dll
+C:\Csharp\Projet\WPF\obj\Debug\net7.0-windows\refint\WPF.dll
+C:\Csharp\Projet\WPF\obj\Debug\net7.0-windows\WPF.pdb
+C:\Csharp\Projet\WPF\obj\Debug\net7.0-windows\WPF.genruntimeconfig.cache
+C:\Csharp\Projet\WPF\obj\Debug\net7.0-windows\ref\WPF.dll
+C:\Csharp\Projet\WPF\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\chris\Documents\Csharp\Projet\WPF\obj\Debug\net7.0-windows\WPF.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\Csharp\Projet\WPF\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\chris\Documents\Csharp\Projet\WPF\obj\Debug\net7.0-windows\Window2.g.cs
+C:\Users\chris\Documents\Csharp\Projet\WPF\obj\Debug\net7.0-windows\Window3.g.cs
+C:\Users\chris\Documents\Csharp\Projet\WPF\obj\Debug\net7.0-windows\Window4.g.cs
+C:\Users\chris\Documents\Csharp\Projet\WPF\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\chris\Documents\Csharp\Projet\WPF\obj\Debug\net7.0-windows\WPF_MarkupCompile.cache
+C:\Users\chris\Documents\Csharp\Projet\WPF\obj\Debug\net7.0-windows\WPF_MarkupCompile.lref
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\obj\Debug\net7.0-windows\WPF.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\obj\Debug\net7.0-windows\Window2.g.cs
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\obj\Debug\net7.0-windows\Window3.g.cs
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\obj\Debug\net7.0-windows\Window4.g.cs
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\obj\Debug\net7.0-windows\WPF_MarkupCompile.cache
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\obj\Debug\net7.0-windows\WPF_MarkupCompile.lref
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\bin\Debug\net7.0-windows\Hasard.deps.json
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\bin\Debug\net7.0-windows\Hasard.runtimeconfig.json
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\bin\Debug\net7.0-windows\Hasard.exe
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\bin\Debug\net7.0-windows\JeuDeCartes.deps.json
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\bin\Debug\net7.0-windows\JeuDeCartes.runtimeconfig.json
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\bin\Debug\net7.0-windows\JeuDeCartes.exe
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\bin\Debug\net7.0-windows\JeuMémoire.deps.json
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\bin\Debug\net7.0-windows\JeuMémoire.runtimeconfig.json
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\bin\Debug\net7.0-windows\JeuMémoire.exe
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\bin\Debug\net7.0-windows\WPF.exe
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\bin\Debug\net7.0-windows\WPF.deps.json
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\bin\Debug\net7.0-windows\WPF.runtimeconfig.json
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\bin\Debug\net7.0-windows\WPF.dll
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\bin\Debug\net7.0-windows\WPF.pdb
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\bin\Debug\net7.0-windows\Hasard.dll
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\bin\Debug\net7.0-windows\JeuDeCartes.dll
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\bin\Debug\net7.0-windows\JeuMémoire.dll
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\bin\Debug\net7.0-windows\Joueur.dll
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\bin\Debug\net7.0-windows\Hasard.pdb
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\bin\Debug\net7.0-windows\JeuDeCartes.pdb
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\bin\Debug\net7.0-windows\JeuMémoire.pdb
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\bin\Debug\net7.0-windows\Joueur.pdb
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\obj\Debug\net7.0-windows\Window2.baml
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\obj\Debug\net7.0-windows\Window3.baml
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\obj\Debug\net7.0-windows\Window4.baml
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\obj\Debug\net7.0-windows\WPF.g.resources
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\obj\Debug\net7.0-windows\WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\obj\Debug\net7.0-windows\WPF.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\obj\Debug\net7.0-windows\WPF.AssemblyInfo.cs
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\obj\Debug\net7.0-windows\WPF.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\obj\Debug\net7.0-windows\WPF.csproj.CopyComplete
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\obj\Debug\net7.0-windows\WPF.dll
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\obj\Debug\net7.0-windows\refint\WPF.dll
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\obj\Debug\net7.0-windows\WPF.pdb
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\obj\Debug\net7.0-windows\WPF.genruntimeconfig.cache
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie\obj\Debug\net7.0-windows\ref\WPF.dll
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\bin\Debug\net7.0-windows\Hasard.deps.json
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\bin\Debug\net7.0-windows\Hasard.runtimeconfig.json
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\bin\Debug\net7.0-windows\Hasard.exe
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\bin\Debug\net7.0-windows\JeuDeCartes.deps.json
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\bin\Debug\net7.0-windows\JeuDeCartes.runtimeconfig.json
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\bin\Debug\net7.0-windows\JeuDeCartes.exe
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\bin\Debug\net7.0-windows\JeuMémoire.deps.json
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\bin\Debug\net7.0-windows\JeuMémoire.runtimeconfig.json
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\bin\Debug\net7.0-windows\JeuMémoire.exe
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\bin\Debug\net7.0-windows\WPF.exe
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\bin\Debug\net7.0-windows\WPF.deps.json
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\bin\Debug\net7.0-windows\WPF.runtimeconfig.json
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\bin\Debug\net7.0-windows\WPF.dll
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\bin\Debug\net7.0-windows\WPF.pdb
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\bin\Debug\net7.0-windows\Hasard.dll
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\bin\Debug\net7.0-windows\JeuDeCartes.dll
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\bin\Debug\net7.0-windows\JeuMémoire.dll
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\bin\Debug\net7.0-windows\Joueur.dll
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\bin\Debug\net7.0-windows\Hasard.pdb
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\bin\Debug\net7.0-windows\JeuDeCartes.pdb
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\bin\Debug\net7.0-windows\JeuMémoire.pdb
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\bin\Debug\net7.0-windows\Joueur.pdb
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\obj\Debug\net7.0-windows\WPF.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\obj\Debug\net7.0-windows\Window2.g.cs
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\obj\Debug\net7.0-windows\Window3.g.cs
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\obj\Debug\net7.0-windows\Window4.g.cs
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\obj\Debug\net7.0-windows\WPF_MarkupCompile.cache
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\obj\Debug\net7.0-windows\WPF_MarkupCompile.lref
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\obj\Debug\net7.0-windows\Window2.baml
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\obj\Debug\net7.0-windows\Window3.baml
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\obj\Debug\net7.0-windows\Window4.baml
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\obj\Debug\net7.0-windows\WPF.g.resources
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\obj\Debug\net7.0-windows\WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\obj\Debug\net7.0-windows\WPF.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\obj\Debug\net7.0-windows\WPF.AssemblyInfo.cs
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\obj\Debug\net7.0-windows\WPF.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\obj\Debug\net7.0-windows\WPF.csproj.CopyComplete
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\obj\Debug\net7.0-windows\WPF.dll
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\obj\Debug\net7.0-windows\refint\WPF.dll
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\obj\Debug\net7.0-windows\WPF.pdb
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\obj\Debug\net7.0-windows\WPF.genruntimeconfig.cache
+C:\Users\chris\Documents\Csharp\Projet\WPF - Copie - Copie\obj\Debug\net7.0-windows\ref\WPF.dll
+C:\Users\chris\Documents\Csharp\Projet\WPF\bin\Debug\net7.0-windows\Hasard.deps.json
+C:\Users\chris\Documents\Csharp\Projet\WPF\bin\Debug\net7.0-windows\Hasard.runtimeconfig.json
+C:\Users\chris\Documents\Csharp\Projet\WPF\bin\Debug\net7.0-windows\JeuDeCartes.deps.json
+C:\Users\chris\Documents\Csharp\Projet\WPF\bin\Debug\net7.0-windows\JeuDeCartes.runtimeconfig.json
+C:\Users\chris\Documents\Csharp\Projet\WPF\bin\Debug\net7.0-windows\JeuMémoire.deps.json
+C:\Users\chris\Documents\Csharp\Projet\WPF\bin\Debug\net7.0-windows\JeuMémoire.runtimeconfig.json
+C:\Users\chris\Documents\Csharp\Projet\WPF\bin\Debug\net7.0-windows\Hasard.exe
+C:\Users\chris\Documents\Csharp\Projet\WPF\bin\Debug\net7.0-windows\JeuDeCartes.exe
+C:\Users\chris\Documents\Csharp\Projet\WPF\bin\Debug\net7.0-windows\JeuMémoire.exe
+C:\Users\chris\Documents\Csharp\Projet\WPF\bin\Debug\net7.0-windows\WPF.exe
+C:\Users\chris\Documents\Csharp\Projet\WPF\bin\Debug\net7.0-windows\WPF.deps.json
+C:\Users\chris\Documents\Csharp\Projet\WPF\bin\Debug\net7.0-windows\WPF.runtimeconfig.json
+C:\Users\chris\Documents\Csharp\Projet\WPF\bin\Debug\net7.0-windows\WPF.dll
+C:\Users\chris\Documents\Csharp\Projet\WPF\bin\Debug\net7.0-windows\WPF.pdb
+C:\Users\chris\Documents\Csharp\Projet\WPF\bin\Debug\net7.0-windows\Hasard.dll
+C:\Users\chris\Documents\Csharp\Projet\WPF\bin\Debug\net7.0-windows\JeuDeCartes.dll
+C:\Users\chris\Documents\Csharp\Projet\WPF\bin\Debug\net7.0-windows\JeuMémoire.dll
+C:\Users\chris\Documents\Csharp\Projet\WPF\bin\Debug\net7.0-windows\Joueur.dll
+C:\Users\chris\Documents\Csharp\Projet\WPF\bin\Debug\net7.0-windows\Hasard.pdb
+C:\Users\chris\Documents\Csharp\Projet\WPF\bin\Debug\net7.0-windows\JeuDeCartes.pdb
+C:\Users\chris\Documents\Csharp\Projet\WPF\bin\Debug\net7.0-windows\JeuMémoire.pdb
+C:\Users\chris\Documents\Csharp\Projet\WPF\bin\Debug\net7.0-windows\Joueur.pdb
+C:\Users\chris\Documents\Csharp\Projet\WPF\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\chris\Documents\Csharp\Projet\WPF\obj\Debug\net7.0-windows\Window2.baml
+C:\Users\chris\Documents\Csharp\Projet\WPF\obj\Debug\net7.0-windows\Window3.baml
+C:\Users\chris\Documents\Csharp\Projet\WPF\obj\Debug\net7.0-windows\Window4.baml
+C:\Users\chris\Documents\Csharp\Projet\WPF\obj\Debug\net7.0-windows\WPF.g.resources
+C:\Users\chris\Documents\Csharp\Projet\WPF\obj\Debug\net7.0-windows\WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Documents\Csharp\Projet\WPF\obj\Debug\net7.0-windows\WPF.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\Csharp\Projet\WPF\obj\Debug\net7.0-windows\WPF.AssemblyInfo.cs
+C:\Users\chris\Documents\Csharp\Projet\WPF\obj\Debug\net7.0-windows\WPF.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Csharp\Projet\WPF\obj\Debug\net7.0-windows\WPF.csproj.CopyComplete
+C:\Users\chris\Documents\Csharp\Projet\WPF\obj\Debug\net7.0-windows\WPF.dll
+C:\Users\chris\Documents\Csharp\Projet\WPF\obj\Debug\net7.0-windows\refint\WPF.dll
+C:\Users\chris\Documents\Csharp\Projet\WPF\obj\Debug\net7.0-windows\WPF.pdb
+C:\Users\chris\Documents\Csharp\Projet\WPF\obj\Debug\net7.0-windows\WPF.genruntimeconfig.cache
+C:\Users\chris\Documents\Csharp\Projet\WPF\obj\Debug\net7.0-windows\ref\WPF.dll
